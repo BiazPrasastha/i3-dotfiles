@@ -1,0 +1,2 @@
+[General]
+commands="@ByteArray({\"_1d1e5f61_3fb5_4f3c_86a7_e53609610548_\":{\"command\":\"shutdown +60\",\"name\":\"Timer\"},\"_319eba08_eead_46da_a948_ec0d100a90dd_\":{\"command\":\"termite --class=Upgrade -e \\\"zsh -c \\\\\\\"shutdown +60\\\\\\\"\\\"\",\"name\":\"terminal\"},\"_48656056_1449_453f_bc41_bd75eeb4e1f2_\":{\"command\":\"i3-msg kill\",\"name\":\"i3 - close\"}})"

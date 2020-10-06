@@ -1,0 +1,14 @@
+configuration {
+	modi: "drun,run,window,ssh";
+	lines: 6;
+	font: "JetBrainsMono Nerd Font Medium 12";
+	bw: 0;
+	padding: 10;
+	show-icons: true;
+	matching: "regex";
+	line-margin: 20;
+	line-padding: 20;
+	separator-style: "none";
+	hide-scrollbar: true;
+	theme: "/usr/share/rofi/themes/custom-nord.rasi";
+}
